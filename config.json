@@ -1,16 +1,16 @@
 {
   "embed": {
-    "title": "Tatertot Title",
-    "description": "Tatertot Description - Warning: THIS IS A RICKROLL WEBSITE",
-    "url": "https://bluefalconhd.github.io/tatertot",
-    "image": "https://github.com/BlueFalconHD/tatertot/raw/master/assets/logo.png",
-    "color": "#FFFFFF"
+    "title": "Listen to this!",
+    "description": "Sent by Collum.Kemp@woodlandschool.org • Spotify Blue Github Share • ©2022 Spotify Inc.",
+    "url": "https://bluefalconhd.github.io/dontblameme",
+    "image": "https://static.wikia.nocookie.net/taylorswift/images/d/d0/Reputation_-_Portada_oficial.jpg/revision/latest/scale-to-width-down/700?cb=20181124084419&path-prefix=es",
+    "color": "#23cf5f"
   },
   "page": {
-    "title": "Tatertot Page Title"
+    "title": "Spotify • Don't Blame Me"
   },
 
   "redirect": "https://shattereddisk.github.io/rickroll/rickroll.mp4",
-  "delay": 10000,
-  "iframe": "https://bluefalconhd.github.io/Bento/"
+  "delay": 2000,
+  "iframe": "https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv?highlight=spotify%3Atrack%3A1R0a2iXumgCiFb7HEZ7gUE"
 }
